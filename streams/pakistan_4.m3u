@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:-1,8XM
+rtmp://cdn.ebound.tv:1935/tv/8xm
+#EXTINF:-1,8xm m3u8 15
+http://cdn.ebound.tv/tv/8xm/chunks.m3u8
+#EXTINF:-1,AAJ TV
+rtmp://cdn.ebound.tv:1935/tv/aajnews
+#EXTINF:-1,ATV
+rtmp://cdn.ebound.tv:1935/tv/atv
+#EXTINF:-1,Business Plus
+rtmp://cdn.ebound.tv:1935/tv/businessplus
+#EXTINF:-1,businessplus m3u8 13
+http://cdn.ebound.tv/tv/businessplus/chunks.m3u8
+#EXTINF:-1,Capital Tv
+rtmp://cdn.ebound.tv:1935/tv/capitaltv
+#EXTINF:-1,capitaltv m3u8 5
+http://cdn.ebound.tv/tv/capitaltv/chunks.m3u8
+#EXTINF:-1,City 42
+rtmp://cdn.ebound.tv:1935/tv/city42
+#EXTINF:-1,Din News
+rtmp://cdn.ebound.tv:1935/tv/dinnews
+#EXTINF:-1,Dynya News
+rtmp://cdn.ebound.tv:1935/tv/dawn
+#EXTINF:-1,Express Entertainment
+rtmp://cdn.ebound.tv:1935/tv/expressentertainment
+#EXTINF:-1,Geo News
+rtmp://cdn.ebound.tv:1935/tv/channel92
+#EXTINF:-1,hadi_tv
+rtmp://live1.haditv.com/liveTrans/channel1_110k
+#EXTINF:-1,Hum SItaray
+rtmp://cdn.ebound.tv:1935/tv/hum2
+#EXTINF:-1,Hum TV
+rtmp://cdn.ebound.tv:1935/tv/humtv
+#EXTINF:-1,iFILM
+rtmp://mtv.fms-01.visionip.tv/live//mtv-ifilm-ifilm-live-16×9-SDq
+#EXTINF:-1,islam_tv
+http://wowza05.sharp-stream.com/islamtv/islamtv/playlist.m3u8
+#EXTINF:-1,islam_tv m3u8
+http://wowza04.sharp-stream.com/islamtv/islamtv/playlist.m3u8
+#EXTINF:-1,Jalwa
+rtmp://cdn.ebound.tv:1935/tv/jalwa
+#EXTINF:-1,Kay 2 TV
+rtmp://cdn.ebound.tv:1935/tv/k2tv
+#EXTINF:-1,m3u8 7
+http://cdn.ebound.tv/tv/city42/chunks.m3u8
+#EXTINF:-1,m3u8 9
+http://cdn.ebound.tv/tv/awaztv/chunks.m3u8
+#EXTINF:-1,Maharishi Channel 3 rtsp
+rtsp://streaming.mou.org/videodialup
+#EXTINF:-1,Metro One TV
+rtmp://cdn.ebound.tv:1935/tv/metroone
+#EXTINF:-1,NDTV Profit
+http://bglive-a.bitgravity.com/ndtv/prolo/live/native
+#EXTINF:-1,News five
+rtmp://cdn.ebound.tv:1935/tv/channelfive
+#EXTINF:-1,News One TV
+rtmp://cdn.ebound.tv:1935/tv/newsone
+#EXTINF:-1,peace_tv
+rtmp://peace.fms.visionip.tv/live/b2b-peace_asia-live-25f-4×3-sdh_1
+#EXTINF:-1,PRESS TV
+rtmp://mtv.fms-01.visionip.tv/live/mtv-ptv-live-25f-16×9-SDh?ref=www.presstv.ir&USER=MTV+-+PTV+Stream
+#EXTINF:-1,PTV News
+http://app.pakistanvision.tv:1935/live/PTVnews/player.m3u8
+#EXTINF:-1,PTV WORLD
+rtmp://live.server4sale.com/live/8090
+#EXTINF:-1,Royal News
+rtmp://cdn.ebound.tv:1935/tv/royaltv
+#EXTINF:-1,royaltv m3u8 6
+http://cdn.ebound.tv/tv/royaltv/chunks.m3u8
+#EXTINF:-1,Samaa TV
+rtmp://cdn.ebound.tv/tv/samaatv
+#EXTINF:-1,Sindh News
+rtmp://cdn.ebound.tv:1935/tv/sindhnews
+#EXTINF:-1,sindhnews m3u8 11
+http://cdn.ebound.tv/tv/sindhnews/chunks.m3u8
+#EXTINF:-1,sindhtv m3u8 10
+http://cdn.ebound.tv/tv/sindhtv/chunks.m3u8
+#EXTINF:-1,Style 360
+rtmp://cdn.ebound.tv:1935/tv/style360
+#EXTINF:-1,style360 m3u8 12
+http://cdn.ebound.tv/tv/style360/chunks.m3u8
+#EXTINF:-1,tehzeeb m3u8 14
+http://cdn.ebound.tv/tv/tehzeeb/chunks.m3u8
+#EXTINF:-1,Time
+rtmp://cdn.ebound.tv:1935/tv/times
+#EXTINF:-1,Urdu 1
+rtmp://cdn.ebound.tv:1935/tv/urdu1
+#EXTINF:-1,urdu1 m3u8 2
+http://cdn.ebound.tv/tv/urdu1/chunks.m3u8
+#EXTINF:-1,Waqt News
+rtmp://cdn.ebound.tv:1935/tv/waqtnews
+#EXTINF:-1,waqtnews m3u8 4
+http://cdn.ebound.tv/tv/waqtnews/chunks.m3u8
