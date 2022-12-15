@@ -147,3 +147,23 @@ https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1 tvg-id="ZindagiTV.pk" tvg-logo="https://i.imgur.com/RtHeRwp.png" group-title="Undefined",Zindagi TV (576p) [Not 24/7]
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="HumTV" status="timeout",Hum TV HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/0UP5W-CTzFo
+
+#EXTINF:-1 tvg-id="GeoEntertainment" status="online",Geo Entertainment
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/Live1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ARYDigital" status="online",ARY Digital
+https://arydigital.aryzap.com/c750fdf938784255ec1bb7f2a157779c/639c853c/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/ARYDigitalHDh264_480p.m3u8
+
+#EXTINF:-1 tvg-id="MasalaTV" status="timeout",Masala TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/bq3ivRaUhYA
+
+
+
+
