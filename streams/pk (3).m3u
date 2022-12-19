@@ -1,62 +1,482 @@
+
+
 #EXTM3U
-#EXTINF:-1 tvg-id="92NewsUK.pk" status="online",92 News UK (576p)
-https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="ARYDigitalUSA.us" status="online",ARY Digital Usa (720p) [Not 24/7]
-#EXTVLCOPT:http-referrer=https://live.arydigital.tv/
-https://6zklx4wryw9b-hls-live.5centscdn.com/arydigitalusa/498f1704b692c3ad4dbfdf5ba5d04536.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV.pk" status="online",ATV
-https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AwazTVNetwork.pk" status="online",Awaz TV
-https://streamone.simpaisa.com:8443/pitvlive1/awaztv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BolNews.pk" status="online",Bol News (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCz2yxQJZgiB_5elTzqV7FiQ/live
-#EXTINF:-1 tvg-id="DawnNews.pk" status="online",Dawn News (720p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCaxR-D8FjZ-2otbU0_Y2grg/live
-#EXTINF:-1 tvg-id="DhartiTV.pk" status="online",Dharti TV
-https://streamone.simpaisa.com:8443/pitvlive1/dhartitv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DunyaNews.pk" status="online",Dunya News (INT Feed) (480p) [Not 24/7]
-https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
-#EXTINF:-1 tvg-id="DunyaNews.pk" status="online",Dunya News (INT Feed) (480p) [Not 24/7]
-https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
-#EXTINF:-1 tvg-id="DunyaNews.pk" status="online",Dunya News (UK Feed) (720p) [Not 24/7]
-https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
-#EXTINF:-1 tvg-id="DunyaNews.pk" status="timeout",Dunya News (480p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnMBV5Iw4WqKILKue1nP6Hg/live
-#EXTINF:-1 tvg-id="FazalTV.pk" status="online",Punjabi TV
-http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HumNews.pk" status="online",Hum News (720p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC0Um3pnZ2WGBEeoA3BX2sKw/live
-#EXTINF:-1 tvg-id="K21News.pk" status="online",K21 News
-https://streamone.simpaisa.com:8443/pitvlive1/k21.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KhyberMiddleEastTV.pk" status="online",Khyber Middle East
-https://streamone.simpaisa.com:8443/pitvlive1/khyber.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KhyberNews.pk" status="online",Khyber News
-https://streamone.simpaisa.com:8443/pitvlive1/khybernews.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MadaniChannelBangla.bd" status="online",Madani Channel Bangla (1080p)
-https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
-#EXTINF:-1 tvg-id="MadaniChannelEnglish.pk" status="online",Madani Channel English (1080p)
-https://madnitv.vdn.dstreamone.net/madnitvenglish/madnienglishabr/playlist.m3u8
-#EXTINF:-1 tvg-id="MadaniChannelUrdu.pk" status="online",Madani Channel Urdu (1080p) [Geo-blocked]
-https://madnitv.vdn.dstreamone.net/madnitvurdu/madniurduabr/playlist.m3u8
-#EXTINF:-1 tvg-id="MehranTV.pk" status="online",Mehran TV
-https://streamone.simpaisa.com:8443/pitvlive1/mehran.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="OneGolf.pk" status="online",One Golf (720p)
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 tvg-id="PTVHome.pk" status="online",PTV Home (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCMfwlaPLGMn44BKvHv15yzA/live
-#EXTINF:-1 tvg-id="PTVNews.pk" status="online",PTV News (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5RvV_LtR1dxPCVFGw6dxXA/live
-#EXTINF:-1 tvg-id="PTVSports.pk" status="timeout",PTV Sports (1080p)
-http://103.81.104.118/hls/stream11.m3u8
-#EXTINF:-1 tvg-id="PTVWorld.pk" status="online",PTV World (480p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCj-e7yp2_-qE-TPritppZGQ/live
-#EXTINF:-1 tvg-id="SindhTVNews.pk" status="online",Sindh TV News
-https://streamone.simpaisa.com:8443/pitvlive1/sindhnews.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="WasebTV.pk" status="online",Waseb TV (720p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCb3vKSPkWFWiFljsSGoeyoQ/live
-#EXTINF:-1 tvg-id="ZindagiTV.pk" status="online",Zindagi TV (576p) [Not 24/7]
-https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
-#EXTINF:-1 tvg-id="" status="online",Lahore News (720p) [Not 24/7]
-https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online",Neo News HD
-https://streamone.simpaisa.com:8443/pitvlive1/neo.smil/playlist.m3u8
+#EXTNAME:Uzair Smart TV
+
+#EXTINF:3 tvg-id="live.geo.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/GEO_News_logo_in_Urdu.png/699px-GEO_News_logo_in_Urdu.png" group-title="Pakistani;News",Geo News
+#EXTTV:News;Urdu;
+https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/GEONEWS/Backup1/chunks.m3u8
+
+#EXTINF:4 tvg-id="AjjNews" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Aaj_News_%28television_channel%29_logo.png?20141220060150" group-title="Pakistani;News",Aaj News
+#EXTTV:News;Urdu;
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1671466072/ei/-DegY6mxF4bcWb_nucgB/ip/39.32.244.110/id/PlSYMmPv2iU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPgtOw4F-nE7yl_iHZlhka80egu0m1zh6xb4OCrBdXPAAiEAh4lfW1HCqr_PPOwasIfzqBsHCAx1zpwypYIR0sjcLB8%3D/file/index.m3u8
+
+#EXTINF:5 tvg-id="DawnNews" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg?20170427035402" group-title="Pakistani;News",Dawn News
+#EXTTV:News;Urdu;
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1671470501/ei/RUmgY-bmFe-exN8PrJ6T6AY/ip/39.32.244.110/id/BR4vk4oKp2E.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgWrLida3CN8bwR3nBetzxFjjWEEIgCkxunHnM0XzBJHkCIQCbAEodb3IbM1qIa07AC5VqXOlQCKotPjqMjkrnYhfmqg%3D%3D/file/index.m3u8
+
+#EXTINF:6,Samma TV
+#EXTTV:News;Urdu;
+udp://@239.194.0.81:6081" onclick="window.open(this.href);return false;
+
+#EXTINF:7 tvg-id="DunyaNews" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Dunya_News.jpg?20171025221037" group-title="Pakistani;News",Dawn News
+#EXTTV:News;Urdu;
+https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/chunklist_w1510577816_b950272.m3u8
+
+#EXTINF:8 tvg-id="AryNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Arynews.jpg/270px-Arynews.jpg" group-title="Pakistani;News",Ary News
+#EXTTV:News;Urdu;
+https://arynews.aryzap.com/9e8cec17097ed802580d88e31e641d16/63a18314/v1/0183ea205add0b8ed5941a38bc6f/0183ea20909b0b8ed5aa4d793456/ARYNewsH264_480p.m3u8
+
+#EXTINF:9,Abb Takk
+#EXTTV:News;Urdu;
+udp://@239.194.0.58:6058" onclick="window.open(this.href);return false;
+
+#EXTINF:10,24 Channel
+#EXTTV:News;Urdu;
+udp://@239.194.0.179:6179" onclick="window.open(this.href);return false;
+
+#EXTINF:11,Capital TV
+#EXTTV:News;Urdu;
+udp://@239.194.0.79:6079" onclick="window.open(this.href);return false;
+
+#EXTINF:12 tvg-id="ExpressNews" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Express_News_logo.png" group-title="Pakistani;News",Express News
+#EXTTV:News;Urdu;
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1671470630/ei/xkmgY7nNKsHDWZvjstgN/ip/39.32.244.110/id/3jH1UZGnHuc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgfhCiEr4aTJzvlJnE9o33lj_8jo1Iv67HBVSh9oqjE2ACIQCooDHthc0H5CsEXbUxpNLODy6DED6rAA-UneR8Igb7Yg%3D%3D/file/index.m3u8
+
+#EXTINF:13,Channel 5
+#EXTTV:News;Urdu;
+udp://@239.194.0.30:6030" onclick="window.open(this.href);return false;
+
+#EXTINF:14,JAAG
+#EXTTV:News;Urdu;
+udp://@239.194.0.92:6092" onclick="window.open(this.href);return false;
+
+#EXTINF:15 tvg-id="92NewsHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistani;News",92 News HD
+#EXTTV:News;Urdu;
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1671470701/ei/DUqgY_vQLvy5xN8PlaCp0A0/ip/39.32.244.110/id/Gc1KtF2BUjQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAN_5RoutUjqd4NifUulZteOh6I0XTep7XahyEYPkGrNrAiBvHAIs4v32YPBBlGNECSF5j7GI1Loi6v97_20EN6Rpxw%3D%3D/file/index.m3u8
+
+#EXTINF:16,Geo Taiz
+#EXTTV:News;Urdu;
+udp://@239.194.0.8:6008" onclick="window.open(this.href);return false;
+
+#EXTINF:17,Roze News
+#EXTTV:News;Urdu;
+udp://@239.194.0.44:6044" onclick="window.open(this.href);return false;
+
+#EXTINF:4 tvg-id="PTVNews" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_News_(television_channel)_logo.png" group-title="Pakistani;News",PTV News
+#EXTTV:News;Urdu;
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1671470763/ei/S0qgY6KaMdeD1gbMspD4Dw/ip/39.32.244.110/id/fMFcCMxmtZ4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAK6dAoI7VD08piytnnkuk0UuMoUN-SAO5nTWS7oONPrhAiEA2VjxHSjog9L0zw0hNvNj2ocPSXKuIYooexnoFz1wRMI%3D/file/index.m3u8
+
+#EXTINF:19,Neo TV
+#EXTTV:News;Urdu;
+udp://@239.194.0.180:6180" onclick="window.open(this.href);return false;
+
+#EXTINF:20,Waqt News
+#EXTTV:News;Urdu;
+udp://@239.194.0.82:6082" onclick="window.open(this.href);return false;
+
+#EXTINF:21,Such TV
+#EXTTV:News;Urdu;
+udp://@239.194.0.163:6163" onclick="window.open(this.href);return false;
+
+#EXTINF:22,Din News
+#EXTTV:News;Urdu;
+udp://@239.194.0.39:6039" onclick="window.open(this.href);return false;
+
+#EXTINF:23,News One
+#EXTTV:News;Urdu;
+udp://@239.194.0.29:6029" onclick="window.open(this.href);return false;
+
+#EXTINF:24,Royal News
+#EXTTV:News;Urdu;
+udp://@239.194.0.153:6153" onclick="window.open(this.href);return false;
+
+#EXTINF:25,News 7
+#EXTTV:News;Urdu;
+udp://@239.194.0.159:6159" onclick="window.open(this.href);return false;
+
+#EXTINF:26,Business plus
+#EXTTV:News;English;
+udp://@239.194.0.68:6068" onclick="window.open(this.href);return false;
+
+#EXTINF:28,Play entertainment
+#EXTTV:Entertainment;Urdu;
+udp://@239.194.0.65:6065" onclick="window.open(this.href);return false;
+
+#EXTINF:29 tvg-id="AajEntertainment" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_News_(television_channel)_logo.png" group-title="Pakistani;News",Aaj Entertainment
+#EXTTV:Entertainment;Urdu;
+https://cdn7.mjunoon.tv:8087/web/AAJENT-125/live/125M/chunks.m3u8?nimblesessionid=16913035&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAyMiAxMToyODoxNSBBTSZoYXNoX3ZhbHVlPUtONDBLM2xQcFdpS01oaHBPeEJMMUE9PSZ2YWxpZG1pbnV0ZXM9MQ==
+
+#EXTINF:30 tvg-id="HUMTV" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_News_(television_channel)_logo.png" group-title="Pakistani;News",HUM TV
+#EXTTV:Entertainment;Urdu;
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1671471103/ei/n0ugY_XuB8nyW4qppOgI/ip/39.32.244.110/id/0UP5W-CTzFo.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/pk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgOmzv3qp_8NnVLou3S6o-iR-gpXWJ0RTkdfZz7TtdJ9ECIGvpVAjn80IYY_jndK7H-3VZ0ejrWxwTZI7FUt1JsxFc/file/index.m3u8
+
+#EXTINF:31 tvg-id="AjjNews" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_News_(television_channel)_logo.png" group-title="Pakistani;News",ARY Digital
+#EXTTV:Entertainment;Urdu;
+https://arydigital.aryzap.com/c750fdf938784255ec1bb7f2a157779c/639c853c/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/ARYDigitalHDh264_480p.m3u8
+
+#EXTINF:4 tvg-id="AjjNews" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_News_(television_channel)_logo.png" group-title="Pakistani;News",Aaj News
+#EXTINF:32,Geo Entertainment
+#EXTTV:Entertainment;Urdu;
+udp://@239.194.0.71:6071" onclick="window.open(this.href);return false;
+
+#EXTINF:4 tvg-id="AjjNews" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_News_(television_channel)_logo.png" group-title="Pakistani;News",Aaj News
+#EXTINF:33,Geo Kahani
+#EXTTV:Entertainment;Urdu;
+udp://@239.194.0.72:6072" onclick="window.open(this.href);return false;
+
+#EXTINF:4 tvg-id="AjjNews" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_News_(television_channel)_logo.png" group-title="Pakistani;News",Aaj News
+#EXTINF:34,A Plus
+#EXTTV:Entertainment;Urdu;
+udp://@239.194.0.07:6007" onclick="window.open(this.href);return false;
+
+#EXTINF:4 tvg-id="AjjNews" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_News_(television_channel)_logo.png" group-title="News",Aaj News
+#EXTINF:35,Urdu 1
+#EXTTV:Entertainment;Urdu;
+udp://@239.194.0.21:6021" onclick="window.open(this.href);return false;
+
+#EXTINF:4 tvg-id="AjjNews" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_News_(television_channel)_logo.png" group-title="News",Aaj News
+#EXTINF:36,Express Entertainment
+#EXTTV:Entertainment;Urdu;
+udp://@239.194.0.51:6051" onclick="window.open(this.href);return false;
+
+#EXTINF:4 tvg-id="AjjNews" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_News_(television_channel)_logo.png" group-title="News",Aaj News
+#EXTINF:37,TV One
+#EXTTV:Entertainment;Urdu;
+udp://@239.194.0.62:6062" onclick="window.open(this.href);return false;
+
+#EXTINF:4 tvg-id="AjjNews" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_News_(television_channel)_logo.png" group-title="News",Aaj News
+#EXTINF:38,Hum Sitaray
+#EXTTV:Entertainment;Urdu;
+udp://@239.194.0.61:6161" onclick="window.open(this.href);return false;
+
+#EXTINF:4 tvg-id="AjjNews" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_News_(television_channel)_logo.png" group-title="News",Aaj News
+#EXTINF:39,ATV
+#EXTTV:Entertainment;Urdu;
+udp://@239.194.0.13:6013" onclick="window.open(this.href);return false;
+
+#EXTINF:4 tvg-id="AjjNews" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_News_(television_channel)_logo.png" group-title="News",Aaj News
+#EXTINF:40,PTV Home
+#EXTTV:Entertainment;Urdu;
+udp://@239.194.0.14:6014" onclick="window.open(this.href);return false;
+
+#EXTINF:4 tvg-id="AjjNews" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_News_(television_channel)_logo.png" group-title="News",Aaj News
+#EXTINF:41,ARY Zindagi
+#EXTTV:Entertainment;Urdu;
+udp://@239.194.0.74:6074" onclick="window.open(this.href);return false;
+
+#EXTINF:4 tvg-id="AjjNews" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_News_(television_channel)_logo.png" group-title="News",Aaj News
+#EXTINF:42,See Tv
+#EXTTV:Entertainment;Urdu;
+udp://@239.194.0.173:6173" onclick="window.open(this.href);return false;
+
+#EXTINF:43,Kohenoor TV
+#EXTTV:Entertainment;Urdu;
+udp://@239.194.0.5:6005" onclick="window.open(this.href);return false;
+
+#EXTINF:44,Raavi TV
+#EXTTV:Entertainment;Urdu;
+udp://@239.194.0.144:6144" onclick="window.open(this.href);return false;
+
+#EXTINF:45,Times Entertainment
+#EXTTV:Entertainment;Urdu;
+udp://@239.194.0.184:6184" onclick="window.open(this.href);return false;
+
+#EXTINF:4 tvg-id="AjjNews" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_News_(television_channel)_logo.png" group-title="News",Aaj News
+#EXTINF:47,Silver Screen
+#EXTTV:Entertainment;Urdu;
+udp://@239.194.0.47:6047" onclick="window.open(this.href);return false;
+
+#EXTINF:4 tvg-id="AjjNews" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_News_(television_channel)_logo.png" group-title="News",Aaj News
+#EXTINF:48,Filmazia
+#EXTTV:Entertainment;Urdu;
+udp://@239.194.0.32:6032" onclick="window.open(this.href);return false;
+
+#EXTINF:4 tvg-id="AjjNews" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_News_(television_channel)_logo.png" group-title="News",Aaj News
+#EXTINF:49,Film World
+#EXTTV:Entertainment;Urdu;
+udp://@239.194.0.146:6146" onclick="window.open(this.href);return false;
+
+#EXTINF:4 tvg-id="AjjNews" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_News_(television_channel)_logo.png" group-title="News",Aaj News
+#EXTINF:50,FILMAX
+#EXTTV:Entertainment;Urdu;
+udp://@239.194.0.31:6031" onclick="window.open(this.href);return false;
+
+#EXTINF:4 tvg-id="AjjNews" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_News_(television_channel)_logo.png" group-title="News",Aaj News
+#EXTINF:51,Hum Masala
+#EXTTV:infotainment;Urdu;
+udp://@239.194.0.76:6076" onclick="window.open(this.href);return false;
+
+#EXTINF:4 tvg-id="AjjNews" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_News_(television_channel)_logo.png" group-title="News",Aaj News
+#EXTINF:52,Zaiqa
+#EXTTV:;Urdu;
+udp://@239.194.0.40:6040" onclick="window.open(this.href);return false;
+
+#EXTINF:4 tvg-id="AjjNews" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_News_(television_channel)_logo.png" group-title="News",Aaj News
+#EXTINF:53,Cartoon Network
+#EXTTV:Kids;English;
+udp://@239.194.0.36:6036" onclick="window.open(this.href);return false;
+
+#EXTINF:4 tvg-id="AjjNews" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_News_(television_channel)_logo.png" group-title="News",Aaj News
+#EXTINF:54,Nickelodeon
+#EXTTV:Kids;English;
+udp://@239.194.0.93:6093" onclick="window.open(this.href);return false;
+
+#EXTINF:4 tvg-id="AjjNews" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_News_(television_channel)_logo.png" group-title="News",Aaj News
+#EXTINF:56,Baby TV
+#EXTTV:Kids;English;
+udp://@239.194.0.86:6086" onclick="window.open(this.href);return false;
+
+#EXTINF:4 tvg-id="AjjNews" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_News_(television_channel)_logo.png" group-title="News",Aaj News
+#EXTINF:57,Animax
+#EXTTV:Kids;English;
+udp://@239.194.0.57:6057" onclick="window.open(this.href);return false;
+
+#EXTINF:4 tvg-id="AjjNews" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_News_(television_channel)_logo.png" group-title="News",Aaj News
+#EXTINF:58,Toonami
+#EXTTV:Kids;English;
+udp://@239.194.0.35:6035" onclick="window.open(this.href);return false;
+
+#EXTINF:4 tvg-id="AjjNews" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_News_(television_channel)_logo.png" group-title="News",Aaj News
+#EXTINF:59,Health TV
+#EXTTV:infotainment;Urdu;
+udp://@239.194.0.89:6089" onclick="window.open(this.href);return false;
+
+#EXTINF:4 tvg-id="AjjNews" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_News_(television_channel)_logo.png" group-title="News",Aaj News
+#EXTINF:62,Jalwa
+#EXTTV:Entertainment;Urdu;
+udp://@239.194.0.176:6176" onclick="window.open(this.href);return false;
+
+#EXTINF:63,Ary Musik
+#EXTTV:Entertainment;Urdu;
+udp://@239.194.0.55:6055" onclick="window.open(this.href);return false;
+
+#EXTINF:64,National Geographics
+#EXTTV:infotainment;English;
+udp://@239.194.0.16:6016" onclick="window.open(this.href);return false;
+
+#EXTINF:65,Discovery Channel
+#EXTTV:infotainment;English;
+udp://@239.194.0.50:6050" onclick="window.open(this.href);return false;
+
+#EXTINF:66,Nat Geo people
+#EXTTV:infotainment;English;
+udp://@239.194.0.90:6090" onclick="window.open(this.href);return false;
+
+#EXTINF:67,Animal Planet
+#EXTTV:infotainment;English;
+udp://@239.194.0.94:6094" onclick="window.open(this.href);return false;
+
+#EXTINF:68,History TV
+#EXTTV:infotainment;English;
+udp://@239.194.0.49:6049" onclick="window.open(this.href);return false;
+
+#EXTINF:69,Travel
+#EXTTV:Entertainment;English;
+udp://@239.194.0.149:6149" onclick="window.open(this.href);return false;
+
+#EXTINF:70,PTV Sports
+#EXTTV:Sports;Urdu;
+udp://@239.194.0.11:6011" onclick="window.open(this.href);return false;
+
+#EXTINF:71,TEN Sports
+#EXTTV:Sports;English;
+udp://@239.194.0.41:6041" onclick="window.open(this.href);return false;
+
+#EXTINF:72,Geo Super
+#EXTTV:Sports;Urdu;
+udp://@239.194.0.70:6070" onclick="window.open(this.href);return false;
+
+#EXTINF:74,Spell Movies
+#EXTTV:Entertainment;English;
+udp://@239.194.0.103:6103" onclick="window.open(this.href);return false;
+
+#EXTINF:75,HBO
+#EXTTV:infotainment;English;
+udp://@239.194.0.53:6053" onclick="window.open(this.href);return false;
+
+#EXTINF:76,Warner Brother
+#EXTTV:infotainment;English;
+udp://@239.194.0.2:6002" onclick="window.open(this.href);return false;
+
+#EXTINF:77,AXN
+#EXTTV:Entertainment;English;
+udp://@239.194.0.63:6063" onclick="window.open(this.href);return false;
+
+#EXTINF:79,MBC Max
+#EXTTV:Entertainment;English;
+udp://@239.194.0.166:6166" onclick="window.open(this.href);return false;
+
+#EXTINF:81,PTV World
+#EXTTV:News;English;
+udp://@239.194.0.27:6027" onclick="window.open(this.href);return false;
+
+#EXTINF:82,Al Jazeera English
+#EXTTV:News;English;
+udp://@239.194.0.148:6148" onclick="window.open(this.href);return false;
+
+#EXTINF:83,CNN
+#EXTTV:News;English;
+udp://@239.194.0.95:6095" onclick="window.open(this.href);return false;
+
+#EXTINF:84,BBC
+#EXTTV:News;English;
+udp://@239.194.0.69:6069" onclick="window.open(this.href);return false;
+
+#EXTINF:85,RT News
+#EXTTV:News;English;
+udp://@239.194.0.156:6156" onclick="window.open(this.href);return false;
+
+#EXTINF:86,CCTV NEWS
+#EXTTV:News;English;
+udp://@239.194.0.105:6105" onclick="window.open(this.href);return false;
+
+#EXTINF:87,DW News English
+#EXTTV:News;English;
+udp://@239.194.0.181:6181" onclick="window.open(this.href);return false;
+
+#EXTINF:88,Bloomberg
+#EXTTV:;English;
+udp://@239.194.0.147:6147" onclick="window.open(this.href);return false;
+
+#EXTINF:90,PTV National
+#EXTTV:;;
+udp://@239.194.0.162:6162" onclick="window.open(this.href);return false;
+
+#EXTINF:91,PTV Bolan
+#EXTTV:Entertainment;Bolochi;
+udp://@239.194.0.178:6178" onclick="window.open(this.href);return false;
+
+#EXTINF:92,PTV Global
+#EXTTV:infotainment;Urdu;
+udp://@239.194.0.100:6100" onclick="window.open(this.href);return false;
+
+#EXTINF:93,K 21
+#EXTTV:News;Urdu;
+udp://@239.194.0.33:6033" onclick="window.open(this.href);return false;
+
+#EXTINF:94,Metro One
+#EXTTV:News;Urdu;
+udp://@239.194.0.85:6085" onclick="window.open(this.href);return false;
+
+#EXTINF:98,VSH News
+#EXTTV:News;Urdu;
+udp://@239.194.0.141:6141" onclick="window.open(this.href);return false;
+
+#EXTINF:99,Khyber TV
+#EXTTV:News;;
+udp://@239.194.0.87:6087" onclick="window.open(this.href);return false;
+
+#EXTINF:100,Khyber News
+#EXTTV:News;;
+udp://@239.194.0.172:6172" onclick="window.open(this.href);return false;
+
+#EXTINF:101,Kay 2
+#EXTTV:Entertainment;;
+udp://@239.194.0.24:6024" onclick="window.open(this.href);return false;
+
+#EXTINF:102,PASHTO 1
+#EXTTV:News;;
+udp://@239.194.0.182:6182" onclick="window.open(this.href);return false;
+
+#EXTINF:103,Afghan Tv
+#EXTTV:;;
+udp://@239.194.0.175:6175" onclick="window.open(this.href);return false;
+
+#EXTINF:104,Mashriq Tv
+#EXTTV:;;
+udp://@239.194.0.78:6078" onclick="window.open(this.href);return false;
+
+#EXTINF:105,Apna Channel
+#EXTTV:Entertainment;Urdu;
+udp://@239.194.0.102:6102" onclick="window.open(this.href);return false;
+
+#EXTINF:106,KTN
+#EXTTV:Entertainment;;
+udp://@239.194.0.88:6088" onclick="window.open(this.href);return false;
+
+#EXTINF:107,KTN News
+#EXTTV:News;Urdu;
+udp://@239.194.0.145:6145" onclick="window.open(this.href);return false;
+
+#EXTINF:108,Kashish
+#EXTTV:;;
+udp://@239.194.0.160:6160" onclick="window.open(this.href);return false;
+
+#EXTINF:109,Sindh TV News
+#EXTTV:News;Urdu;
+udp://@239.194.0.98:6098" onclick="window.open(this.href);return false;
+
+#EXTINF:110,Sind TV
+#EXTTV:;;
+udp://@239.194.0.91:6091" onclick="window.open(this.href);return false;
+
+#EXTINF:111,Mehran Tv
+#EXTTV:Entertainment;Urdu;
+udp://@239.194.0.169:6169" onclick="window.open(this.href);return false;
+
+#EXTINF:112,Awaz TV
+#EXTTV:Entertainment;Urdu;
+udp://@239.194.0.177:6177" onclick="window.open(this.href);return false;
+
+#EXTINF:113,Dharti TV
+#EXTTV:;;
+udp://@239.194.0.46:6046" onclick="window.open(this.href);return false;
+
+#EXTINF:114,Rohi TV
+#EXTTV:News;Urdu;
+udp://@239.194.0.167:6167" onclick="window.open(this.href);return false;
+
+#EXTINF:115,Waseeb
+#EXTTV:;;
+udp://@239.194.0.61:6061" onclick="window.open(this.href);return false;
+
+#EXTINF:116,Vibe TV
+#EXTTV:Entertainment;Urdu;
+udp://@239.194.0.34:6034" onclick="window.open(this.href);return false;
+
+#EXTINF:117,Aruj TV
+#EXTTV:Entertainment;;
+udp://@239.194.0.174:6174" onclick="window.open(this.href);return false;
+
+#EXTINF:118,SBN TV
+#EXTTV:;;
+udp://@239.194.0.152:6152" onclick="window.open(this.href);return false;
+
+#EXTINF:119,VTV 1
+#EXTTV:News;Urdu;
+udp://@239.194.0.140:6140" onclick="window.open(this.href);return false;
+
+#EXTINF:120,VTV 2
+#EXTTV:News;Urdu;
+udp://@239.194.0.59:6059" onclick="window.open(this.href);return false;
+
+#EXTINF:123,Q TV
+#EXTTV:;Urdu;
+udp://@239.194.0.52:6052" onclick="window.open(this.href);return false;
+
+#EXTINF:124,Al Quran Al kareem
+#EXTTV:;Arb;
+udp://@239.194.0.26:6026" onclick="window.open(this.href);return false;
+
+#EXTINF:125,Al sunnah Al Nabavi
+#EXTTV:;Arb;
+udp://@239.194.0.155:6155" onclick="window.open(this.href);return false;
+
+#EXTINF:126,Star Asia
+#EXTTV:;Urdu;
+udp://@239.194.0.45:6045" onclick="window.open(this.href);return false;
+
+#EXTINF:128,Punjab
+#EXTTV:Entertainment;Urdu;
+udp://@239.194.0.38:6038" onclick="window.open(this.href);return false;
+
+
+
+
+
+
+
+
+
+
